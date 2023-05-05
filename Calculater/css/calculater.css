@@ -1,0 +1,28 @@
+#div1{
+    border: 1px solid black;
+    height: 100vh;
+}
+#div2{
+    border: 1px solid black;
+    height: 65vh;
+    position: absolute;
+    top: 0px;
+    width: 100vw;
+    background-color: rgb(85, 81, 81,0.5);
+    display: none;
+    text-align: center;
+    padding-top: 300px;
+    font-size: large;
+}
+body{
+    text-align: center;
+}
+
+#add{
+    padding: 20px;
+}
+body{
+    background-color: darkkhaki;
+}
+
+
